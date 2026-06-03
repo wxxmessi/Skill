@@ -1,3 +1,6 @@
 [submodule "private"]
 	path = private
 	url = https://github.com/wxxmessi/private.git
+[submodule "skills"]
+	path = skills
+	url = https://github.com/wxxmessi/skills.git
